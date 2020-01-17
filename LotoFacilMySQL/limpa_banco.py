@@ -24,7 +24,7 @@ def excluiJogos():
                     sql = f'delete from jogos where id_concurso={id};'
                     sql2 = f'ALTER TABLE jogos AUTO_INCREMENT={id};'
                     mycursor.execute(sql,sql2)
-                    print(f'Concurs {id} deletado com sucesso')
+                    print(f'Concurso {id} deletado com sucesso')
                     break
                 else:
                     print('Opção inválida!')
