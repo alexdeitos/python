@@ -1,0 +1,1448 @@
+C:\Users\alexsandro.deitos\Documents\Python\BP4D\venv\Scripts\python.exe C:/Users/alexsandro.deitos/Documents/Python/BP4D/LotoFacilMySQL/PlayLotoFacil.py
+####################################################################################################
+                  Seja bem vindo ao PlayLotoFácil! - Criado por Alexsandro Deitos                   
+                                  Escolha a sua opção e boa sorte!                                  
+####################################################################################################
+
+
+Último resultado contido no banco de dados:
+
+Concurso: 1901
+Dezenas:  2 - 3 - 4 - 5 - 9 - 10 - 12 - 13 - 14 - 15 - 16 - 17 - 18 - 19 - 20
+
+
+O que deseja:
+
+[ 1 ] - Gerar Jogos
+[ 2 ] - Formatar Resultados
+[ 3 ] - Conferir Resultados
+[ 4 ] - Operações Avançadas - Banco de Dados
+[ 5 ] - Gerar Fechamento
+[ 6 ] - Visualiza resultados
+[ 7 ] - Sair
+
+==>> 1
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+
+Deseja gerar quantos jogos?
+
+==> 3
+Minimo Impar: 7
+Maximo Impar: 8
+Minimo Repetidas: 9
+Maximo Repetidas: 9
+Minimo Primo: 4
+Maximo Primo: 5
+Minimo Fibo: 4
+Maximo Fibo: 5
+Minimo Multiplos de 3: 4
+Maximo Multiplos de 3: 6
+Minimo na Moldura: 9
+Maximo na Moldura: 11
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 7, 8, 9, 10, 15, 16, 17, 18, 19, 21, 22, 24] 
+Foram necessarios 129 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 160
+12 pontos: 29
+13 pontos: 0
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 3, 4, 8, 9, 11, 12, 14, 16, 17, 19, 21, 22, 24, 25] 
+Foram necessarios 256 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 162
+12 pontos: 34
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 3, 4, 5, 6, 8, 9, 10, 14, 17, 18, 19, 21, 24, 25] 
+Foram necessarios 377 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 183
+12 pontos: 31
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+
+
+O que deseja:
+
+[ 1 ] - Gerar Jogos
+[ 2 ] - Formatar Resultados
+[ 3 ] - Conferir Resultados
+[ 4 ] - Operações Avançadas - Banco de Dados
+[ 5 ] - Gerar Fechamento
+[ 6 ] - Visualiza resultados
+[ 7 ] - Sair
+
+==>> 100
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+Opção inválida!
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+
+O que deseja:
+
+[ 1 ] - Gerar Jogos
+[ 2 ] - Formatar Resultados
+[ 3 ] - Conferir Resultados
+[ 4 ] - Operações Avançadas - Banco de Dados
+[ 5 ] - Gerar Fechamento
+[ 6 ] - Visualiza resultados
+[ 7 ] - Sair
+
+==>> 1
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+
+Deseja gerar quantos jogos?
+
+==> 100
+Minimo Impar: 7
+Maximo Impar: 8
+Minimo Repetidas: 8
+Maximo Repetidas: 9
+Minimo Primo: 4
+Maximo Primo: 5
+Minimo Fibo: 5
+Maximo Fibo: 6
+Minimo Multiplos de 3: 4
+Maximo Multiplos de 3: 6
+Minimo na Moldura: 8
+Maximo na Moldura: 11
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 3, 5, 6, 8, 10, 13, 14, 15, 17, 18, 20, 21, 22, 24] 
+Foram necessarios 71 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 191
+12 pontos: 30
+13 pontos: 3
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 5, 6, 8, 9, 10, 13, 15, 18, 19, 20, 21, 22, 23] 
+Foram necessarios 168 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 168
+12 pontos: 34
+13 pontos: 3
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 7, 8, 12, 13, 14, 17, 18, 20, 21, 22, 24, 25] 
+Foram necessarios 323 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 168
+12 pontos: 40
+13 pontos: 5
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 3, 5, 6, 8, 10, 12, 13, 14, 16, 17, 18, 21, 23, 25] 
+Foram necessarios 440 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 158
+12 pontos: 22
+13 pontos: 2
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 4, 5, 6, 7, 8, 9, 13, 14, 15, 16, 19, 21, 22, 25] 
+Foram necessarios 505 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 176
+12 pontos: 24
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 8, 10, 11, 12, 13, 14, 17, 18, 20, 21, 22, 25] 
+Foram necessarios 506 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 185
+12 pontos: 28
+13 pontos: 4
+14 pontos: 2
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 4, 6, 8, 11, 13, 14, 16, 18, 19, 21, 22, 25] 
+Foram necessarios 681 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 156
+12 pontos: 31
+13 pontos: 5
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 3, 4, 5, 6, 8, 9, 12, 13, 14, 16, 21, 22, 23, 25] 
+Foram necessarios 906 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 179
+12 pontos: 29
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 4, 5, 7, 8, 13, 15, 16, 17, 18, 20, 21, 22, 24] 
+Foram necessarios 908 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 159
+12 pontos: 35
+13 pontos: 5
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 8, 9, 11, 12, 13, 15, 16, 20, 21, 22, 23, 24] 
+Foram necessarios 978 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 160
+12 pontos: 29
+13 pontos: 3
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 5, 7, 8, 12, 13, 15, 16, 18, 19, 20, 21, 24, 25] 
+Foram necessarios 1156 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 144
+12 pontos: 43
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 3, 5, 6, 8, 9, 10, 12, 13, 16, 17, 21, 22, 24, 25] 
+Foram necessarios 1484 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 157
+12 pontos: 32
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 5, 6, 7, 8, 10, 12, 13, 15, 17, 18, 21, 22, 24] 
+Foram necessarios 1488 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 164
+12 pontos: 48
+13 pontos: 5
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [3, 5, 6, 8, 10, 11, 12, 13, 15, 17, 18, 20, 21, 22, 25] 
+Foram necessarios 1807 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 177
+12 pontos: 25
+13 pontos: 2
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 5, 8, 12, 14, 15, 16, 18, 20, 21, 22, 23, 25] 
+Foram necessarios 1826 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 151
+12 pontos: 30
+13 pontos: 3
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 5, 8, 9, 10, 12, 13, 16, 18, 21, 22, 23, 24] 
+Foram necessarios 1836 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 156
+12 pontos: 25
+13 pontos: 0
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 5, 7, 8, 9, 10, 17, 18, 20, 21, 22, 24, 25] 
+Foram necessarios 2099 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 165
+12 pontos: 39
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 4, 5, 6, 8, 12, 14, 15, 19, 21, 22, 24, 25] 
+Foram necessarios 2250 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 166
+12 pontos: 43
+13 pontos: 6
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 5, 6, 8, 9, 12, 13, 16, 17, 18, 20, 21, 23, 24] 
+Foram necessarios 2297 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 158
+12 pontos: 27
+13 pontos: 0
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 3, 4, 5, 6, 8, 9, 13, 14, 16, 19, 20, 21, 22, 25] 
+Foram necessarios 2402 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 168
+12 pontos: 30
+13 pontos: 5
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 5, 6, 8, 10, 11, 12, 13, 15, 16, 18, 21, 22, 23] 
+Foram necessarios 2456 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 153
+12 pontos: 31
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [3, 4, 5, 6, 8, 9, 10, 13, 18, 19, 20, 21, 22, 24, 25] 
+Foram necessarios 2671 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 158
+12 pontos: 39
+13 pontos: 5
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 20, 21, 23, 24] 
+Foram necessarios 2701 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 163
+12 pontos: 36
+13 pontos: 3
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 4, 5, 7, 8, 13, 14, 15, 16, 18, 21, 22, 23, 24] 
+Foram necessarios 3166 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 180
+12 pontos: 31
+13 pontos: 4
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 5, 6, 8, 9, 11, 12, 13, 14, 16, 18, 21, 23, 24] 
+Foram necessarios 3486 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 139
+12 pontos: 25
+13 pontos: 3
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [3, 4, 5, 6, 8, 11, 13, 14, 15, 16, 19, 21, 22, 24, 25] 
+Foram necessarios 3540 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 168
+12 pontos: 43
+13 pontos: 2
+14 pontos: 2
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 3, 5, 6, 7, 8, 10, 13, 14, 15, 18, 20, 21, 24, 25] 
+Foram necessarios 3545 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 174
+12 pontos: 40
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 6, 8, 10, 12, 13, 14, 17, 19, 21, 22, 24, 25] 
+Foram necessarios 3572 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 201
+12 pontos: 25
+13 pontos: 2
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 5, 6, 7, 8, 9, 13, 14, 16, 17, 18, 21, 22, 25] 
+Foram necessarios 3591 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 174
+12 pontos: 29
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 5, 6, 8, 9, 11, 13, 14, 16, 17, 20, 21, 22, 24] 
+Foram necessarios 3683 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 166
+12 pontos: 30
+13 pontos: 2
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 3, 4, 5, 7, 8, 10, 12, 13, 15, 19, 20, 21, 22, 24] 
+Foram necessarios 3788 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 182
+12 pontos: 24
+13 pontos: 3
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 5, 6, 8, 9, 10, 14, 17, 18, 20, 21, 24, 25] 
+Foram necessarios 3795 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 163
+12 pontos: 40
+13 pontos: 5
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [3, 4, 5, 6, 8, 9, 12, 13, 14, 18, 20, 21, 22, 23, 25] 
+Foram necessarios 3847 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 162
+12 pontos: 27
+13 pontos: 6
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [3, 4, 5, 6, 7, 8, 12, 13, 14, 15, 17, 20, 21, 24, 25] 
+Foram necessarios 3931 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 147
+12 pontos: 32
+13 pontos: 4
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 5, 7, 8, 10, 14, 15, 16, 19, 20, 21, 22, 24] 
+Foram necessarios 3939 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 156
+12 pontos: 30
+13 pontos: 3
+14 pontos: 1
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 5, 7, 8, 9, 10, 13, 14, 18, 20, 22, 24, 25] 
+Foram necessarios 4029 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 163
+12 pontos: 40
+13 pontos: 7
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 5, 6, 8, 10, 12, 13, 14, 15, 19, 21, 23, 24, 25] 
+Foram necessarios 4298 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 160
+12 pontos: 37
+13 pontos: 7
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 4, 5, 8, 9, 10, 12, 14, 20, 21, 23, 24, 25] 
+Foram necessarios 4319 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 165
+12 pontos: 41
+13 pontos: 2
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 5, 7, 8, 12, 13, 14, 15, 18, 20, 21, 24, 25] 
+Foram necessarios 4410 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 168
+12 pontos: 42
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 3, 4, 5, 6, 7, 8, 13, 14, 15, 16, 20, 21, 24, 25] 
+Foram necessarios 4498 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 192
+12 pontos: 26
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 3, 4, 6, 8, 9, 10, 11, 12, 13, 18, 19, 21, 22, 25] 
+Foram necessarios 4570 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 166
+12 pontos: 36
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 5, 6, 8, 9, 13, 14, 15, 16, 22, 23, 24, 25] 
+Foram necessarios 4627 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 142
+12 pontos: 43
+13 pontos: 5
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 7, 8, 9, 11, 13, 14, 15, 16, 18, 20, 21, 22] 
+Foram necessarios 4817 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 177
+12 pontos: 31
+13 pontos: 5
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 4, 5, 8, 9, 10, 11, 17, 18, 21, 22, 24, 25] 
+Foram necessarios 4831 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 173
+12 pontos: 37
+13 pontos: 3
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 4, 5, 8, 9, 12, 14, 17, 20, 21, 22, 23, 25] 
+Foram necessarios 4962 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 167
+12 pontos: 29
+13 pontos: 2
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 3, 4, 5, 6, 8, 10, 12, 13, 16, 19, 20, 21, 24, 25] 
+Foram necessarios 5104 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 176
+12 pontos: 29
+13 pontos: 4
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 4, 5, 8, 9, 10, 11, 13, 14, 15, 18, 21, 22, 23, 25] 
+Foram necessarios 5144 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 199
+12 pontos: 28
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 3, 5, 6, 8, 10, 13, 14, 16, 17, 18, 19, 21, 22, 25] 
+Foram necessarios 5177 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 177
+12 pontos: 24
+13 pontos: 0
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 4, 8, 9, 10, 11, 13, 16, 18, 20, 21, 22, 23] 
+Foram necessarios 5402 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 184
+12 pontos: 33
+13 pontos: 2
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 20, 21, 24, 25] 
+Foram necessarios 5635 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 148
+12 pontos: 28
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 5, 8, 9, 10, 13, 16, 18, 20, 21, 22, 23, 25] 
+Foram necessarios 5823 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 177
+12 pontos: 28
+13 pontos: 3
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 3, 5, 6, 7, 8, 9, 14, 16, 18, 19, 20, 21, 22, 25] 
+Foram necessarios 5834 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 149
+12 pontos: 37
+13 pontos: 2
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 3, 4, 5, 6, 8, 12, 13, 15, 18, 19, 20, 21, 22, 23] 
+Foram necessarios 5996 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 168
+12 pontos: 34
+13 pontos: 5
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 4, 5, 6, 7, 8, 11, 12, 13, 14, 15, 18, 21, 22, 25] 
+Foram necessarios 6038 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 177
+12 pontos: 27
+13 pontos: 2
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 5, 7, 8, 9, 12, 13, 18, 20, 21, 22, 24, 25] 
+Foram necessarios 6113 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 172
+12 pontos: 35
+13 pontos: 0
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 4, 6, 8, 9, 13, 14, 17, 18, 19, 21, 24, 25] 
+Foram necessarios 6127 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 173
+12 pontos: 38
+13 pontos: 3
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 3, 4, 5, 7, 8, 10, 14, 15, 17, 20, 21, 22, 24, 25] 
+Foram necessarios 6290 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 179
+12 pontos: 31
+13 pontos: 0
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 3, 4, 5, 6, 8, 10, 13, 15, 18, 19, 20, 21, 22, 24] 
+Foram necessarios 6301 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 189
+12 pontos: 30
+13 pontos: 3
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 5, 7, 8, 12, 13, 14, 15, 16, 20, 21, 22, 24, 25] 
+Foram necessarios 6368 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 157
+12 pontos: 39
+13 pontos: 4
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 4, 5, 8, 9, 12, 13, 14, 15, 21, 22, 23, 24, 25] 
+Foram necessarios 6550 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 161
+12 pontos: 35
+13 pontos: 4
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 3, 6, 7, 8, 10, 13, 14, 15, 16, 17, 18, 21, 22, 25] 
+Foram necessarios 6628 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 142
+12 pontos: 32
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 5, 6, 10, 12, 13, 18, 19, 20, 21, 22, 24, 25] 
+Foram necessarios 6792 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 185
+12 pontos: 32
+13 pontos: 3
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 6, 8, 10, 13, 14, 15, 16, 17, 18, 21, 22, 23] 
+Foram necessarios 6866 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 160
+12 pontos: 28
+13 pontos: 2
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 6, 8, 12, 13, 14, 15, 17, 20, 21, 22, 24, 25] 
+Foram necessarios 6876 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 169
+12 pontos: 42
+13 pontos: 2
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 4, 5, 6, 8, 9, 10, 11, 13, 14, 18, 21, 22, 23, 25] 
+Foram necessarios 6914 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 162
+12 pontos: 29
+13 pontos: 3
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 4, 8, 10, 12, 13, 16, 17, 20, 21, 23, 24, 25] 
+Foram necessarios 7048 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 156
+12 pontos: 38
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 4, 8, 9, 11, 13, 16, 18, 20, 21, 22, 23, 25] 
+Foram necessarios 7158 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 171
+12 pontos: 38
+13 pontos: 2
+14 pontos: 1
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 4, 5, 8, 9, 10, 13, 14, 17, 18, 21, 22, 24, 25] 
+Foram necessarios 7174 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 178
+12 pontos: 39
+13 pontos: 2
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 5, 6, 7, 10, 12, 13, 14, 16, 21, 22, 24, 25] 
+Foram necessarios 7349 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 173
+12 pontos: 38
+13 pontos: 3
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 3, 4, 5, 7, 8, 9, 10, 13, 16, 18, 21, 22, 24, 25] 
+Foram necessarios 7637 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 166
+12 pontos: 23
+13 pontos: 7
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 3, 4, 6, 7, 8, 9, 10, 13, 15, 16, 21, 23, 24, 25] 
+Foram necessarios 7656 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 159
+12 pontos: 22
+13 pontos: 0
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 4, 5, 6, 8, 10, 13, 16, 17, 18, 19, 21, 24, 25] 
+Foram necessarios 7674 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 183
+12 pontos: 34
+13 pontos: 5
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [3, 4, 5, 6, 8, 10, 11, 12, 13, 14, 16, 19, 21, 22, 25] 
+Foram necessarios 7697 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 150
+12 pontos: 37
+13 pontos: 0
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 3, 4, 5, 6, 8, 9, 12, 13, 16, 18, 20, 21, 22, 23] 
+Foram necessarios 7846 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 143
+12 pontos: 36
+13 pontos: 4
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 3, 4, 5, 6, 8, 9, 16, 17, 18, 20, 21, 22, 23, 25] 
+Foram necessarios 7856 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 135
+12 pontos: 38
+13 pontos: 4
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 3, 6, 7, 8, 10, 13, 14, 15, 18, 19, 21, 22, 24, 25] 
+Foram necessarios 8197 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 161
+12 pontos: 39
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 5, 6, 7, 8, 9, 10, 12, 13, 16, 20, 21, 23, 24, 25] 
+Foram necessarios 8420 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 161
+12 pontos: 33
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 4, 8, 13, 14, 15, 16, 17, 18, 21, 22, 23, 25] 
+Foram necessarios 8449 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 176
+12 pontos: 23
+13 pontos: 4
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 4, 5, 8, 12, 13, 15, 16, 18, 21, 22, 24, 25] 
+Foram necessarios 8450 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 169
+12 pontos: 36
+13 pontos: 4
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 21, 22, 24] 
+Foram necessarios 8548 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 150
+12 pontos: 32
+13 pontos: 3
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 4, 7, 8, 10, 13, 17, 18, 20, 21, 22, 24, 25] 
+Foram necessarios 8837 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 197
+12 pontos: 35
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 4, 5, 6, 8, 9, 10, 11, 13, 16, 19, 20, 21, 24, 25] 
+Foram necessarios 9362 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 162
+12 pontos: 44
+13 pontos: 1
+14 pontos: 1
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 5, 8, 11, 12, 13, 15, 16, 18, 19, 20, 21, 22, 25] 
+Foram necessarios 9400 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 175
+12 pontos: 34
+13 pontos: 5
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 4, 8, 10, 11, 12, 13, 16, 17, 21, 22, 24, 25] 
+Foram necessarios 9573 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 168
+12 pontos: 38
+13 pontos: 2
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 3, 5, 6, 8, 10, 13, 14, 16, 17, 18, 21, 22, 23, 24] 
+Foram necessarios 9665 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 155
+12 pontos: 29
+13 pontos: 2
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 3, 6, 7, 8, 9, 10, 13, 14, 18, 20, 21, 22, 23, 25] 
+Foram necessarios 10071 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 184
+12 pontos: 36
+13 pontos: 4
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 3, 6, 7, 8, 9, 10, 13, 14, 16, 18, 19, 21, 24, 25] 
+Foram necessarios 10079 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 155
+12 pontos: 35
+13 pontos: 5
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 3, 4, 5, 6, 8, 10, 11, 12, 13, 18, 20, 21, 24, 25] 
+Foram necessarios 10099 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 164
+12 pontos: 37
+13 pontos: 2
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 4, 5, 6, 7, 8, 9, 10, 12, 13, 16, 21, 23, 24, 25] 
+Foram necessarios 10107 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 160
+12 pontos: 25
+13 pontos: 3
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 3, 7, 8, 9, 10, 11, 13, 14, 15, 18, 21, 22, 24, 25] 
+Foram necessarios 10256 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 172
+12 pontos: 34
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 5, 8, 9, 10, 11, 13, 14, 15, 18, 20, 21, 22, 23] 
+Foram necessarios 10274 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 191
+12 pontos: 38
+13 pontos: 3
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 3, 4, 6, 8, 9, 13, 15, 16, 19, 20, 21, 22, 24, 25] 
+Foram necessarios 10343 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 175
+12 pontos: 29
+13 pontos: 3
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 3, 4, 5, 8, 10, 12, 13, 15, 16, 17, 21, 22, 24, 25] 
+Foram necessarios 10346 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 157
+12 pontos: 36
+13 pontos: 3
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 4, 5, 6, 8, 9, 13, 16, 18, 20, 21, 23, 24, 25] 
+Foram necessarios 10552 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 170
+12 pontos: 30
+13 pontos: 2
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 3, 4, 6, 7, 8, 9, 12, 13, 16, 18, 20, 21, 23, 25] 
+Foram necessarios 10660 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 151
+12 pontos: 32
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 3, 5, 6, 8, 10, 12, 13, 15, 16, 17, 19, 21, 22, 24] 
+Foram necessarios 10917 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 162
+12 pontos: 29
+13 pontos: 4
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 5, 6, 8, 10, 11, 12, 13, 15, 17, 18, 21, 24, 25] 
+Foram necessarios 11020 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 169
+12 pontos: 38
+13 pontos: 5
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [2, 3, 4, 6, 8, 9, 13, 14, 15, 18, 19, 21, 22, 23, 25] 
+Foram necessarios 11062 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 162
+12 pontos: 33
+13 pontos: 4
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 7, 8, 10, 13, 14, 15, 16, 17, 18, 21, 24, 25] 
+Foram necessarios 11226 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 153
+12 pontos: 31
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Jogo que atende os parametros: [1, 2, 3, 4, 5, 8, 9, 12, 13, 14, 18, 22, 23, 24, 25] 
+Foram necessarios 11392 jogos!
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 177
+12 pontos: 24
+13 pontos: 1
+14 pontos: 1
+15 pontos: 0
+
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+
+
+O que deseja:
+
+[ 1 ] - Gerar Jogos
+[ 2 ] - Formatar Resultados
+[ 3 ] - Conferir Resultados
+[ 4 ] - Operações Avançadas - Banco de Dados
+[ 5 ] - Gerar Fechamento
+[ 6 ] - Visualiza resultados
+[ 7 ] - Sair
+
+==>> 7
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+ Finalizado com sucesso! Até mais!
+=-=-=-==-=-=-==-=-=-==-=-=-==-=-=-=
+
+Process finished with exit code 0
