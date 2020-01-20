@@ -1,114 +1,95 @@
 jogo 1:
-      [1, 2, 3, 6, 7, 8, 10, 12, 13, 14, 18, 19, 20, 21, 25]
+      [1, 2, 3, 4, 5, 9, 13, 14, 16, 17, 18, 21, 22, 23, 24]
 
 Acertos obtidos com o jogo gerado na história da lotofácil:
-11 pontos: 151
-12 pontos: 32
-13 pontos: 3
+11 pontos: 174
+12 pontos: 29
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+Qtd de Impar: 8
+Qtd de Primo: 6
+Qtd de Repetidas: 10
+Qtd de Moldura: 10
+Qtd de Fibo: 6
+Qtd de Multiplos: 5
+Soma: 192
+
+- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -
+jogo 2:
+      [1, 2, 3, 5, 7, 10, 12, 13, 16, 18, 19, 21, 22, 24, 25]
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 196
+12 pontos: 25
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+Qtd de Impar: 8
+Qtd de Primo: 6
+Qtd de Repetidas: 9
+Qtd de Moldura: 10
+Qtd de Fibo: 6
+Qtd de Multiplos: 5
+Soma: 198
+
+- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -
+jogo 3:
+      [2, 4, 5, 7, 9, 10, 12, 13, 14, 18, 21, 22, 23, 24, 25]
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 161
+12 pontos: 37
+13 pontos: 2
 14 pontos: 0
 15 pontos: 0
 
 Qtd de Impar: 7
 Qtd de Primo: 5
 Qtd de Repetidas: 9
-Qtd de Moldura: 8
-Qtd de Fibo: 6
+Qtd de Moldura: 9
+Qtd de Fibo: 4
 Qtd de Multiplos: 5
-Soma: 179
-
-- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -
-jogo 2:
-      [1, 2, 3, 6, 7, 8, 9, 10, 12, 13, 18, 19, 20, 21, 25]
-
-Acertos obtidos com o jogo gerado na história da lotofácil:
-11 pontos: 153
-12 pontos: 31
-13 pontos: 3
-14 pontos: 0
-15 pontos: 0
-
-Qtd de Impar: 8
-Qtd de Primo: 5
-Qtd de Repetidas: 9
-Qtd de Moldura: 8
-Qtd de Fibo: 6
-Qtd de Multiplos: 6
-Soma: 174
-
-- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -
-jogo 3:
-      [1, 2, 3, 6, 7, 8, 9, 10, 13, 14, 15, 18, 19, 20, 25]
-
-Acertos obtidos com o jogo gerado na história da lotofácil:
-11 pontos: 165
-12 pontos: 37
-13 pontos: 3
-14 pontos: 0
-15 pontos: 0
-
-Qtd de Impar: 8
-Qtd de Primo: 5
-Qtd de Repetidas: 10
-Qtd de Moldura: 8
-Qtd de Fibo: 5
-Qtd de Multiplos: 5
-Soma: 170
+Soma: 209
 
 - -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -
 jogo 4:
-      [1, 2, 3, 6, 7, 8, 9, 10, 12, 13, 14, 15, 19, 20, 25]
+      [2, 3, 4, 5, 7, 9, 10, 12, 14, 16, 19, 21, 22, 24, 25]
 
 Acertos obtidos com o jogo gerado na história da lotofácil:
-11 pontos: 151
-12 pontos: 39
+11 pontos: 169
+12 pontos: 30
+13 pontos: 4
+14 pontos: 0
+15 pontos: 0
+
+Qtd de Impar: 7
+Qtd de Primo: 5
+Qtd de Repetidas: 9
+Qtd de Moldura: 10
+Qtd de Fibo: 4
+Qtd de Multiplos: 5
+Soma: 193
+
+- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -
+jogo 5:
+      [2, 3, 4, 7, 9, 10, 13, 14, 16, 17, 18, 21, 22, 23, 25]
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 175
+12 pontos: 31
 13 pontos: 2
 14 pontos: 0
 15 pontos: 0
 
 Qtd de Impar: 8
-Qtd de Primo: 5
+Qtd de Primo: 6
 Qtd de Repetidas: 10
-Qtd de Moldura: 8
-Qtd de Fibo: 5
-Qtd de Multiplos: 5
-Soma: 164
-
-- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -
-jogo 5:
-      [1, 2, 3, 6, 7, 8, 9, 10, 13, 14, 18, 19, 20, 21, 25]
-
-Acertos obtidos com o jogo gerado na história da lotofácil:
-11 pontos: 184
-12 pontos: 29
-13 pontos: 5
-14 pontos: 0
-15 pontos: 0
-
-Qtd de Impar: 8
-Qtd de Primo: 5
-Qtd de Repetidas: 9
-Qtd de Moldura: 8
-Qtd de Fibo: 6
-Qtd de Multiplos: 5
-Soma: 176
-
-- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -
-jogo 6:
-      [1, 2, 3, 6, 7, 8, 9, 10, 14, 15, 18, 19, 20, 21, 25]
-
-Acertos obtidos com o jogo gerado na história da lotofácil:
-11 pontos: 156
-12 pontos: 28
-13 pontos: 5
-14 pontos: 0
-15 pontos: 0
-
-Qtd de Impar: 8
-Qtd de Primo: 4
-Qtd de Repetidas: 9
 Qtd de Moldura: 9
-Qtd de Fibo: 5
-Qtd de Multiplos: 6
-Soma: 178
+Qtd de Fibo: 4
+Qtd de Multiplos: 4
+Soma: 204
 
 - -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -
