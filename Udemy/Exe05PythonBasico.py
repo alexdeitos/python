@@ -8,12 +8,12 @@ valor2 = int(input("Digite o valor 2: "))
 if sinal == '+':
     resultado = valor1 + valor2
     print("soma: ", resultado)
-if sinal == '-':
+elif sinal == '-':
     resultado = valor1 - valor2
     print("subtração: ", resultado)
-if sinal == '/':
+elif sinal == '/':
     resultado = valor1 / valor2
     print("divisao: ", resultado)
-if sinal == '*':
+elif sinal == '*':
     resultado = valor1 * valor2
     print("multiplicação: ", resultado)
