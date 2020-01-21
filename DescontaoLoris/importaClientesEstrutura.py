@@ -19,7 +19,7 @@ def __main__():
     print(f'numero de linhas :{lines}')
     print(f'numero de colunas: {columns}')
 
-    for l in range(1, lines+1):
+    for l in range(1, lines+1): 
         if l > 1:
             nome = ws.cell(row=l, column=1).value
             #cpf = ws.cell(row=l, column=2).value
