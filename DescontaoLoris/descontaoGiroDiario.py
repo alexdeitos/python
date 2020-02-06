@@ -26,8 +26,8 @@ def __main__():
         fg = ws.cell(row=l, column=1)
         cod_produto = ws.cell(row=l, column=2)
         giro_diario = ws.cell(row=l, column=3)
-        giro.write(f'{sql}{giro_diario.value}{sql1}{cod_produto.value}{sql2}{fg.value}{sql3}\n')
-        giro_replic.write(f'{sql4}{sql}{giro_diario.value}{sql1}{cod_produto.value}{sql2}{fg.value}{sql3}{sql5}\n')
+        giro.write(f'{sql}{giro_diario.value:.2f}{sql1}{cod_produto.value}{sql2}{fg.value}{sql3}\n')
+        giro_replic.write(f'{sql4}{sql}{giro_diario.value:.2f}{sql1}{cod_produto.value}{sql2}{fg.value}{sql3}{sql5}\n')
 
     print('Salvando arquivo...\n')
     giro.close()
