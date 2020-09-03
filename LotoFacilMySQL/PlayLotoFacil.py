@@ -25,7 +25,7 @@ def __main__():
     if countjogos[0] ==  0 :
         print("\n\nTabela de jogos vazia, importe novamente os resultados!\n")
     else:
-        mycursor1.execute("select max(id_concurso) from jogos")
+        mycursor1.execute("select count(*) from jogos")
         last = mycursor1.fetchone()
         last = last[0]
         sql = f"SELECT dezena_1, dezena_2, dezena_3, dezena_4, dezena_5, dezena_6, dezena_7, dezena_8,dezena_9, dezena_10, " \

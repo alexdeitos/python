@@ -15,7 +15,7 @@ def addTodosSorteios():
     jogos=[]
     contator = 0
     for li in range(1, lines):
-        for col in range(1, columns):
+        for col in range(0, columns):
             if li > 7 and col > 2:
                 i = ws.cell(row=li, column=col).value
                 game.append(i)
