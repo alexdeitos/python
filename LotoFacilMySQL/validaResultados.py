@@ -8,7 +8,17 @@ def validadorResultados():
         print('\nDigite os seu jogo\n')
         print('#' * 100)
         while True:
-            numeros.append(int(input(f'Digite o {x}° número do seu jogo {i}: ')))
+            while True:
+                n = int(input(f'Digite o {x}° número do seu jogo {i}: '))
+                if n not in numeros and n < 26:
+                    numeros.append(n)
+                    break
+                else:
+                    if n > 25:
+                        print('valor invalido!')
+                    else:
+                        print('numero repetido!')
+                    continue
             x += 1
             if x == 16:
                 vetorJogado.append(numeros[:])
@@ -23,7 +33,17 @@ def validadorResultados():
     print('#' * 100)
 
     while True:
-        vetorResultados.append(int(input(f'Digite o {x}° número sorteado pela caixa: ')))
+        while True:
+            n = int(input(f'Digite o {x}° número sorteado pela caixa: '))
+            if n not in vetorResultados and n < 26:
+                vetorResultados.append(n)
+                break
+            else:
+                if n > 25:
+                    print('valor invalido!')
+                else:
+                    print('valor repetido!')
+                continue
         x += 1
         if x == 16:
             break
