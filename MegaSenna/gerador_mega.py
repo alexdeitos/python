@@ -34,4 +34,9 @@ def mega_sena():
                         print(f'{valor_celula:^10}', end=' ')
         print()
 
+
+
+
+
+
 mega_sena()

@@ -1,7 +1,7 @@
-from LotoFacil.geraJogo import gerarNumerosJogos
-from LotoFacil.geraJogo import validandoParametros
 from LotoFacil.PatternFill_testes import formata_resultados
 from LotoFacil.confere_jogo import validadorResultados
+from LotoFacil.geraJogo import gerarNumerosJogos
+from LotoFacil.geraJogo import validandoParametros
 
 
 def __main__():

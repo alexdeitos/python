@@ -1,7 +1,8 @@
-import mysql.connector
+from mysql import connector as con
+
 
 def conecta():
-    conexao = mysql.connector.connect(
+    conexao = con.connect(
           host="localhost",
           user="seq_user",
           passwd="seq_password",

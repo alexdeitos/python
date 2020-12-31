@@ -1,8 +1,6 @@
 #Importar as cenas que sao precisas
 from tkinter import *
-import pymysql
-import ttkSimpleDialog
-import gui
+
 #Criar a Janela e botao de sair
 top = Tk()
 top.minsize(width=1115, height=110)

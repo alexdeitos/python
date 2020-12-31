@@ -1,5 +1,5 @@
-from LotoFacilMySQL.gerarJogos import gerarNumerosJogos, validaResultadosJogoGerado
 from LotoFacilMySQL.connect_mysql import conecta
+from LotoFacilMySQL.gerarJogos import gerarNumerosJogos, validaResultadosJogoGerado
 
 
 def fechamento():

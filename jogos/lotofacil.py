@@ -1,4 +1,5 @@
 import xlrd
+
 from funcLotoFacil import *
 
 cont = 0

@@ -33,6 +33,7 @@
         <list>
           <option value="FuncoesLotoFacil" />
           <option value="gerador_loto_facil" />
+          <option value="LotoFacilMySQL.connect_mysql.mysql" />
         </list>
       </option>
     </inspection_tool>

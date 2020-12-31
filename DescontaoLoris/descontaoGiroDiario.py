@@ -1,5 +1,7 @@
-from openpyxl import load_workbook
 from datetime import date
+
+from openpyxl import load_workbook
+
 
 def __main__():
     print('Lendo arquivo...\n')

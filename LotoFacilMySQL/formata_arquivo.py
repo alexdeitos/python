@@ -1,7 +1,9 @@
-from LotoFacilMySQL.cores_celulas import *
-from LotoFacilMySQL.connect_mysql import conecta
-from openpyxl import Workbook
 from time import sleep
+
+from openpyxl import Workbook
+
+from LotoFacilMySQL.connect_mysql import conecta
+from LotoFacilMySQL.cores_celulas import *
 
 
 def formata():

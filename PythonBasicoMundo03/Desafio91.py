@@ -1,6 +1,7 @@
+from operator import itemgetter
 from random import randint
 from time import sleep
-from operator import itemgetter
+
 jogador = {'Jogador 1':'','Jogador 2':'','Jogador 3':'','Jogador 4':''}
 print('-='* 30)
 print(f"{'GERANDO JOGOS':^60}")

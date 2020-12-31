@@ -63,3 +63,4 @@ def validaMega(jogo):
                 f'\nSoma:{soma}\nBordas:{contBorda}\n')
             valida = True
     return valida
+

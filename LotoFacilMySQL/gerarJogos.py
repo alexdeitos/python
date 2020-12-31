@@ -1,5 +1,7 @@
 from random import randint
+
 from LotoFacilMySQL.connect_mysql import conecta
+
 
 def gerarNumerosJogos():
     """ valores da lista A """

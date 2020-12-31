@@ -1,12 +1,13 @@
 from LotoFacilMySQL.add_new_sorteio_banco import adicionaResultado
 from LotoFacilMySQL.add_todos_sorteios_banco import addTodosSorteios
-from LotoFacilMySQL.limpa_banco import excluiJogos
-from LotoFacilMySQL.formata_arquivo import formata
-from LotoFacilMySQL.gerarJogos import gerarNumerosJogos, validandoParametros, validaResultadosJogoGerado
-from LotoFacilMySQL.validaResultados import validadorResultados
-from LotoFacilMySQL.geraDesdobramentos import fechamento
 from LotoFacilMySQL.connect_mysql import conecta
+from LotoFacilMySQL.formata_arquivo import formata
+from LotoFacilMySQL.geraDesdobramentos import fechamento
+from LotoFacilMySQL.gerarJogos import gerarNumerosJogos, validandoParametros, validaResultadosJogoGerado
+from LotoFacilMySQL.limpa_banco import excluiJogos
 from LotoFacilMySQL.mostraResultados import mostraResultados
+from LotoFacilMySQL.validaResultados import validadorResultados
+
 
 def __main__():
     print('#####' * 20)

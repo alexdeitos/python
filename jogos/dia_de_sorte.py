@@ -1,7 +1,3 @@
-import matplotlib.pyplot as plt
-import pandas as pd
-
-
 dados = open("dia_de_sorte.xlsx").readlines()
 
 print(dados)

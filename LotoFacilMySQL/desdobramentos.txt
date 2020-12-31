@@ -1,47 +1,199 @@
 jogo 1:
-      [1, 2, 5, 6, 7, 8, 9, 11, 13, 15, 16, 18, 22, 24, 25]
+      [2, 3, 4, 6, 8, 12, 13, 15, 17, 19, 20, 21, 22, 23, 25]
 
 Acertos obtidos com o jogo gerado na história da lotofácil:
-11 pontos: 165
-12 pontos: 32
-13 pontos: 2
+11 pontos: 181
+12 pontos: 43
+13 pontos: 0
+14 pontos: 0
+15 pontos: 0
+
+Qtd de Impar: 8
+Qtd de Primo: 6
+Qtd de Repetidas: 8
+Qtd de Moldura: 10
+Qtd de Fibo: 5
+Qtd de Multiplos: 5
+Soma: 210
+
+- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -
+jogo 2:
+      [1, 2, 3, 4, 8, 12, 13, 16, 17, 19, 20, 21, 22, 23, 25]
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 182
+12 pontos: 27
+13 pontos: 4
+14 pontos: 0
+15 pontos: 0
+
+Qtd de Impar: 8
+Qtd de Primo: 6
+Qtd de Repetidas: 8
+Qtd de Moldura: 10
+Qtd de Fibo: 6
+Qtd de Multiplos: 3
+Soma: 206
+
+- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -
+jogo 3:
+      [1, 2, 5, 7, 8, 12, 13, 15, 16, 17, 20, 21, 22, 24, 25]
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 187
+12 pontos: 36
+13 pontos: 5
 14 pontos: 0
 15 pontos: 0
 
 Qtd de Impar: 8
 Qtd de Primo: 5
-Qtd de Repetidas: 9
+Qtd de Repetidas: 10
 Qtd de Moldura: 10
-Qtd de Fibo: 5
-Qtd de Multiplos: 5
-Soma: 182
+Qtd de Fibo: 6
+Qtd de Multiplos: 4
+Soma: 208
 
 - -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -
-jogo 2:
-      [1, 2, 5, 6, 8, 11, 12, 13, 15, 16, 17, 18, 22, 24, 25]
+jogo 4:
+      [2, 4, 5, 6, 7, 8, 12, 13, 16, 19, 21, 22, 23, 24, 25]
 
 Acertos obtidos com o jogo gerado na história da lotofácil:
-11 pontos: 165
-12 pontos: 42
-13 pontos: 3
+11 pontos: 160
+12 pontos: 45
+13 pontos: 1
 14 pontos: 0
 15 pontos: 0
 
 Qtd de Impar: 7
-Qtd de Primo: 5
+Qtd de Primo: 6
+Qtd de Repetidas: 10
+Qtd de Moldura: 10
+Qtd de Fibo: 5
+Qtd de Multiplos: 4
+Soma: 207
+
+- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -
+jogo 5:
+      [2, 3, 6, 7, 8, 11, 12, 13, 17, 20, 21, 22, 23, 24, 25]
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 186
+12 pontos: 38
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+Qtd de Impar: 8
+Qtd de Primo: 7
+Qtd de Repetidas: 10
+Qtd de Moldura: 10
+Qtd de Fibo: 5
+Qtd de Multiplos: 5
+Soma: 214
+
+- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -
+jogo 6:
+      [2, 3, 4, 7, 8, 12, 13, 15, 16, 17, 20, 21, 23, 24, 25]
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 186
+12 pontos: 30
+13 pontos: 0
+14 pontos: 0
+15 pontos: 0
+
+Qtd de Impar: 8
+Qtd de Primo: 6
+Qtd de Repetidas: 8
+Qtd de Moldura: 10
+Qtd de Fibo: 5
+Qtd de Multiplos: 5
+Soma: 210
+
+- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -
+jogo 7:
+      [2, 4, 5, 6, 8, 12, 13, 15, 16, 17, 19, 20, 21, 23, 24]
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 190
+12 pontos: 26
+13 pontos: 5
+14 pontos: 0
+15 pontos: 0
+
+Qtd de Impar: 7
+Qtd de Primo: 6
 Qtd de Repetidas: 9
 Qtd de Moldura: 10
 Qtd de Fibo: 5
 Qtd de Multiplos: 5
-Soma: 195
+Soma: 205
 
 - -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -
-jogo 3:
-      [1, 2, 5, 6, 8, 9, 11, 13, 15, 16, 17, 18, 22, 24, 25]
+jogo 8:
+      [2, 3, 4, 5, 8, 12, 13, 16, 17, 19, 20, 21, 22, 23, 24]
 
 Acertos obtidos com o jogo gerado na história da lotofácil:
-11 pontos: 178
-12 pontos: 32
+11 pontos: 195
+12 pontos: 27
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+Qtd de Impar: 7
+Qtd de Primo: 7
+Qtd de Repetidas: 9
+Qtd de Moldura: 10
+Qtd de Fibo: 6
+Qtd de Multiplos: 4
+Soma: 209
+
+- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -
+jogo 9:
+      [1, 2, 3, 7, 8, 11, 12, 13, 16, 17, 20, 21, 22, 24, 25]
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 195
+12 pontos: 36
+13 pontos: 3
+14 pontos: 0
+15 pontos: 0
+
+Qtd de Impar: 8
+Qtd de Primo: 6
+Qtd de Repetidas: 9
+Qtd de Moldura: 10
+Qtd de Fibo: 6
+Qtd de Multiplos: 4
+Soma: 202
+
+- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -
+jogo 10:
+      [2, 5, 7, 8, 12, 13, 15, 16, 19, 20, 21, 22, 23, 24, 25]
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 184
+12 pontos: 37
+13 pontos: 1
+14 pontos: 0
+15 pontos: 0
+
+Qtd de Impar: 8
+Qtd de Primo: 6
+Qtd de Repetidas: 10
+Qtd de Moldura: 10
+Qtd de Fibo: 5
+Qtd de Multiplos: 4
+Soma: 232
+
+- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -
+jogo 11:
+      [1, 2, 5, 6, 8, 12, 13, 15, 16, 17, 19, 20, 21, 22, 25]
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 191
+12 pontos: 29
 13 pontos: 3
 14 pontos: 0
 15 pontos: 0
@@ -50,8 +202,27 @@ Qtd de Impar: 8
 Qtd de Primo: 5
 Qtd de Repetidas: 9
 Qtd de Moldura: 10
+Qtd de Fibo: 6
+Qtd de Multiplos: 4
+Soma: 202
+
+- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -
+jogo 12:
+      [3, 4, 5, 6, 8, 12, 13, 16, 17, 19, 21, 22, 23, 24, 25]
+
+Acertos obtidos com o jogo gerado na história da lotofácil:
+11 pontos: 173
+12 pontos: 40
+13 pontos: 3
+14 pontos: 0
+15 pontos: 0
+
+Qtd de Impar: 8
+Qtd de Primo: 6
+Qtd de Repetidas: 9
+Qtd de Moldura: 10
 Qtd de Fibo: 5
 Qtd de Multiplos: 5
-Soma: 192
+Soma: 218
 
 - -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -- -- - -- -

@@ -1,7 +1,7 @@
 from openpyxl import load_workbook
+from openpyxl.styles import Font, Alignment
 from openpyxl.styles import PatternFill
 from openpyxl.styles.borders import Border, Side
-from openpyxl.styles import Font, Alignment
 
 
 def formata_resultados():
